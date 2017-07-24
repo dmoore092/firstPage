@@ -1,0 +1,41 @@
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: aliceblue;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+figure{
+    float: right;
+    margin-right: 10%;
+}
+body{
+    background-color: #006FB5;
+    font-family: Arial, Verdana;
+}
+h2{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: yellow;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: cyan
+}
+a:active{
+    color: black;
+    text-decoration: none;
+}
+figcaption{
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 11%;
+}
